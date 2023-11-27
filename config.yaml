@@ -1,0 +1,7 @@
+eeg_data: "datasets/eeg_data.csv"
+
+conditions: "datasets/10k_synthea_covid19_csv/conditions.csv"
+patients: "datasets/10k_synthea_covid19_csv/patients.csv"
+observations: "datasets/10k_synthea_covid19_csv/observations.csv"
+careplans: "datasets/10k_synthea_covid19_csv/careplans.csv"
+encounters: "datasets/10k_synthea_covid19_csv/encounters.csv"
