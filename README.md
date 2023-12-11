@@ -22,17 +22,17 @@ cd <path>/Programming2
 3. Open Jupyter Notebook or a file in Jupyter Notebook with the following command line:
 
 ``` sh
-jupyter notebook # Navigate to folder/file
-jupyter notebook <file>.ipynb # Or open the file of interest
+jupyter notebook # Open Jupyter Notebook and navigate to folder/file
+jupyter notebook <file>.ipynb # Or open the file of interest in Jupyter Notebook
 ```
 
-4. *Optional* - You can open the files in Visual Studio Code with the following command line:
+4. *Optional* - You can open Visual Studio Code or a file in Visual Studio Code with the following command line:
 
 ``` sh
-vscode # Navigate to folder/file
-vscode <file>.ipynb # Or open the file of interest
+code # Open Visual Studio Code and navigate to folder/file
+code <file>.ipynb # Or open the file of interest in Visual Studio Code
 ```
-5. *Optional* - Open the preferred application and navigate to the folder/file.
+5. *Optional* - Open the preferred application and navigate to the folder/file by hand.
 
 6. Select and use a Python kernel.
 
